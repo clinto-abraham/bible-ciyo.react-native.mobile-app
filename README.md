@@ -1,0 +1,1 @@
+# bible-ciyo.react-native.mobile-app
