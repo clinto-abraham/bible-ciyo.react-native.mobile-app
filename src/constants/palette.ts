@@ -1,0 +1,36 @@
+// Design tokens matching bible.ciyo.in cosmic dark theme
+
+export const Palette = {
+  bgBase: '#060814',
+  bgSurface: '#0B0F1E',
+  bgCard: '#0F172A',
+  bgCardTranslucent: 'rgba(15, 23, 42, 0.72)',
+  bgCardSoft: 'rgba(15, 23, 42, 0.5)',
+  bgDeep: '#090D1A',
+  borderSubtle: '#1E293B',
+  borderHover: '#334155',
+
+  textWhite: '#FFFFFF',
+  textSlate100: '#F1F5F9',
+  textSlate200: '#E2E8F0',
+  textSlate300: '#CBD5E1',
+  textMuted: '#94A3B8',
+  textDim: '#64748B',
+
+  sky: '#38BDF8',
+  skyDark: '#0284C7',
+  blue: '#3B82F6',
+  blue600: '#2563EB',
+  indigo: '#6366F1',
+  indigo600: '#4F46E5',
+  amber: '#F59E0B',
+  gold: '#FBBF24',
+  amberLight: '#FCD34D',
+  emerald: '#10B981',
+  emeraldLight: '#34D399',
+  purple: '#A855F7',
+  purpleLight: '#D8B4FE',
+  pink: '#EC4899',
+  rose: '#F43F5E',
+  red: '#EF4444',
+} as const;
